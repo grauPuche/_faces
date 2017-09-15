@@ -1,0 +1,28 @@
+{
+  "name": "faces",
+  "version": "0.0.0",
+  "description": "playing w opencv 3.* for node (faces and others)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grauPuche/_faces.git"
+  },
+  "keywords": [
+    "face",
+    "recognition",
+    "detection",
+    "opencv",
+    "3",
+    "node",
+    "js"
+  ],
+  "author": "grau Puche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grauPuche/_faces/issues"
+  },
+  "homepage": "https://github.com/grauPuche/_faces#readme"
+}
