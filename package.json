@@ -1,8 +1,8 @@
 {
   "name": "faces",
-  "version": "0.0.0",
-  "description": "playing w opencv 3.* for node (faces and others)",
-  "main": "index.js",
+  "version": "1.0.0",
+  "description": "image chat",
+  "main": "hello.js",
   "scripts": {
     "test": "npm start"
   },
@@ -11,13 +11,12 @@
     "url": "git+https://github.com/grauPuche/_faces.git"
   },
   "keywords": [
-    "face",
-    "recognition",
-    "detection",
-    "opencv",
-    "3",
-    "node",
-    "js"
+    "chat",
+    "sockets",
+    "video",
+    "image",
+    "webcam",
+    "browser."
   ],
   "author": "grau Puche",
   "license": "ISC",
